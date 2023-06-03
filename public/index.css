@@ -1,0 +1,90 @@
+.Imgbackground {
+    /* background-image:url('./photo/f.png'); */
+    background:  url('./photo/f.png');
+   
+    background-repeat: no-repeat;
+     /* background-attachment: fixed;  */
+    background-size: cover;
+    /* background-blend-mode: darken; */
+    
+  }
+
+  
+  .bg{
+    background-color:white ;
+    padding: 0px;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    /* height: 60px; */
+    border-radius: 8px;
+
+  }
+ .pocket{
+    background-color: rgb(138, 20, 20);
+    text-align: center;
+ }
+ .start{
+width: 50%;
+text-align: center;
+margin-top: 5px;
+margin-left: 70px;
+font-size: 70px;
+font-weight: 500;
+ }
+ .start1{
+    margin-left: 70px;
+    font-size: 23px;
+    font-weight: 500;
+    margin-top: 5px;
+
+
+ }
+ .start2{
+    padding:0px;
+ }
+ .start3{
+    text-decoration: none;
+    color: black;
+    font-size: 27px;
+    font-weight: 500;
+    margin-left: 15px;
+ }
+ .start4{
+   text-decoration: none;
+   
+ }
+ .imgCard{
+    width: auto;
+    height: auto;
+
+ }
+ .aCard{
+    text-decoration: none;
+    color: black;
+
+ }
+ .imgtest{
+    border-radius: 100px;
+    margin:25px;
+ }
+ .img-bg-Industries{
+    background: rgba(0, 0, 0, 0.8) url("./photo/ocen/ocean_freight_feat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+
+
+ }
+ .logo-Industries{
+    width: 150px;
+
+ }
+ .link-C-N-U {
+color:grey;
+text-decoration-line: none;
+ }
+ .location{
+   margin-top: 25px;
+ }
+ 
